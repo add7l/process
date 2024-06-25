@@ -24,3 +24,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+# Play but experience environment power.
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hello, World!")
+}
