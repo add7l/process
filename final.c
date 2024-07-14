@@ -10,3 +10,10 @@ int main() {
 	printf("Hello, World!\n");
 	return 0;
 }
+
+# Seem she control.
+#include <stdio.h>
+int main() {
+	printf("Hello, World!\n");
+	return 0;
+}
