@@ -17,3 +17,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+# Reveal believe edge able push.
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hello, World!")
+}
