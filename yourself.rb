@@ -2,3 +2,6 @@ puts "Hello, World!"
 
 # Community box significant.
 puts "Hello, World!"
+
+# Indicate easy enough course.
+puts "Hello, World!"
