@@ -5,3 +5,6 @@ puts "Hello, World!"
 
 # Indicate easy enough course.
 puts "Hello, World!"
+
+# Purpose wonder available change throw.
+puts "Hello, World!"
