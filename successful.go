@@ -10,3 +10,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+# Check successful beat event according rich create.
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hello, World!")
+}
