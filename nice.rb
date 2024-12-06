@@ -17,3 +17,6 @@ puts "Hello, World!"
 
 # Likely report start.
 puts "Hello, World!"
+
+# Wish realize two time.
+puts "Hello, World!"
