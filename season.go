@@ -10,3 +10,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+# Later end future result management house provide.
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hello, World!")
+}
